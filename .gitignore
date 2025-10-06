@@ -1,0 +1,30 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.suo
+*.vssscc
+*.vspscc
+*.vcproj
+*.vcproj.filters
+*.vcxproj
+*.vcxproj.filters
+*.db
+*.dbmdl
+*.pdb
+*.idb
+*.opt
+*.ncb
+*.sdf
+*.opensdf
+*.sln
+*.sln.ide
+.vs/
